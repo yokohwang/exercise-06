@@ -10,7 +10,7 @@
       <h1>Meet the Cats</h1>
       <h2>Quorra</h2>
 
-      <nav>
+   <nav>
         <ul>
           <li><a href="">Home</a></li>
           <li><a href="">Charlie</a></li>
@@ -23,16 +23,16 @@
       </nav>
     </header>
 
-    <main>
+   <main>
 
-      <img src="" alt="Quorra" />
+   <img src="" alt="Quorra" />
 
-      <ul>
+   <ul>
         <li><strong>Owner of:</strong> Erin</li>
         <li><strong>Type:</strong> Tabby</li>
         <li><strong>Favorite food:</strong> Milk</li>
-      </ul>
+    </ul>
 
-    </main>
+   </main>
   </body>
 </html>
