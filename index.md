@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <title>Meet the Cats</title>
+    <link href="css/style.css" rel="stylesheet" />
   </head>
 
   <body>
@@ -12,12 +13,12 @@
   <nav>
         <ul>
           <li>Home</li>
-          <li><a href="charlie.html">Charlie</a></li>
-          <li><a href="">Coby</a></li>
-          <li><a href="">Flynn</a></li>
-          <li><a href="">Piper</a></li>
-          <li><a href="">Quorra</a></li>
-          <li><a href="">Zedo</a></li>
+          <li><a href="black-n-white/charlie.html">Charlie</a></li>
+          <li><a href="snowshoe/coby.html">Coby</a></li>
+          <li><a href="tabby/flynn.html">Flynn</a></li>
+          <li><a href="egyptian-mau/piper.html">Piper</a></li>
+          <li><a href="tabby/quora.html">Quorra</a></li>
+          <li><a href="tux/zedo.html">Zedo</a></li>
         </ul>
 </nav>
     </header>
