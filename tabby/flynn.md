@@ -26,7 +26,7 @@
 
   <main>
 
-   <img  src="img/flynn.jpg" alt="Flynn" />
+   <img src="img/flynn.jpg" alt="Flynn" />
 
    <ul>
         <li><strong>Owner of:</strong> Erin</li>
