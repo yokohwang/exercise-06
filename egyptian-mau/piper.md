@@ -13,13 +13,13 @@
 
    <nav>
         <ul>
-          <li><a href="">Home</a></li>
-          <li><a href="">Charlie</a></li>
-          <li><a href="">Coby</a></li>
-          <li><a href="">Flynn</a></li>
-          <li><a href="">Piper</a></li>
-          <li><a href="">Quorra</a></li>
-          <li><a href="">Zedo</a></li>
+          <li><a href="index.md">Home</a></li>
+          <li><a href="black-n-white/charlie.md">Charlie</a></li>
+          <li><a href="snowshoe/coby.md">Coby</a></li>
+          <li><a href="tabby/flynn.md">Flynn</a></li>
+          <li><a href="egyptian-mau/piper.md">Piper</a></li>
+          <li><a href="tabby/quorra.md">Quorra</a></li>
+          <li><a href="tux/zedo.md">Zedo</a></li>
         </ul>
    </nav>
    </header>
