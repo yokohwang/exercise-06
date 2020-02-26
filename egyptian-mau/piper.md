@@ -23,16 +23,16 @@
    </nav>
    </header>
 
-    <main>
+   <main>
 
-      <img src="" alt="Piper" />
+   <img src="" alt="Piper" />
 
-    <ul>
+   <ul>
         <li><strong>Owner of:</strong> Will</li>
         <li><strong>Type:</strong> Egyptian Mau</li>
         <li><strong>Favorite food:</strong> Fish</li>
    </ul>
 
-    </main>
+   </main>
   </body>
 </html>
