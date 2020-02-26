@@ -10,7 +10,7 @@
       <h1>Meet the Cats</h1>
       <h2>Coby</h2>
 
-      <nav>
+   <nav>
         <ul>
           <li><a href="">Home</a></li>
           <li><a href="">Charlie</a></li>
@@ -23,16 +23,16 @@
       </nav>
     </header>
 
-    <main>
+  <main>
 
-      <img src="" alt="Coby" />
+   <img src="" alt="Coby" />
 
-      <ul>
+   <ul>
         <li><strong>Owner of:</strong> Kevin</li>
         <li><strong>Type:</strong> Snowshoe</li>
         <li><strong>Favorite food:</strong> Lizards</li>
       </ul>
 
-    </main>
+   </main>
   </body>
 </html>
