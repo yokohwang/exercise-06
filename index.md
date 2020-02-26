@@ -12,7 +12,7 @@
       <nav>
         <ul>
           <li>Home</li>
-          <li><a href="">Charlie</a></li>
+          <li><a href="charlie.html">Charlie</a></li>
           <li><a href="">Coby</a></li>
           <li><a href="">Flynn</a></li>
           <li><a href="">Piper</a></li>
