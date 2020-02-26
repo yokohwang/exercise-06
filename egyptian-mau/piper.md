@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <title>Meet the Cats | Piper</title>
+    <link href="css/style.css rel="stylesheet />
   </head>
 
   <body>
@@ -25,7 +26,7 @@
 
    <main>
 
-   <img src="" alt="Piper" />
+   <img src="img/piper.jpg" alt="Piper" />
 
    <ul>
         <li><strong>Owner of:</strong> Will</li>
