@@ -26,7 +26,7 @@
 
   <main>
 
-   <img 
+   <img>
    <a href="img/flynn.jpg" alt="Flynn" />
    </img>
 
