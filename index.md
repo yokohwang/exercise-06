@@ -9,7 +9,7 @@
     <header>
       <h1>Meet the Cats</h1>
 
-      <nav>
+  <nav>
         <ul>
           <li>Home</li>
           <li><a href="charlie.html">Charlie</a></li>
@@ -19,7 +19,7 @@
           <li><a href="">Quorra</a></li>
           <li><a href="">Zedo</a></li>
         </ul>
-      </nav>
+</nav>
     </header>
   </body>
 </html>
