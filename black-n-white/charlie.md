@@ -12,7 +12,7 @@
 
 <nav>
         <ul>
-          <li><a href="exercise-06/index.md">Home</a></li>
+          <li><a href="index.md">Home</a></li>
           <li><a href="black-n-white/charlie.md">Charlie</a></li>
           <li><a href="snowshoe/coby.md">Coby</a></li>
           <li><a href="tabby/flynn.md">Flynn</a></li>
